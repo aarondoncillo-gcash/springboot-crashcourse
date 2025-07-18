@@ -189,12 +189,4 @@ public class CalculatorTest {
         calculator.turnOff();
         assertTrue(calculator.isOff());
     }
-
-
-
-
-
-
-
-
 }
