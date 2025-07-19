@@ -21,11 +21,16 @@
 
 ---
 ## Session 2
+### Exercise: Calculator Developed TDD-Style
+By: Earl John Pulido & Ronan Aaron Doncillo
+#### Screenshot of output
+![Exercise output - Test Coverage](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/ExerciseTDD/test%20coverage%20screenshot.png "Exercise output - Test Coverage")
+
 ### Lab 6: Define Your Resource POJO (Product)
 #### Screenshot of output
-- ![Lab 6 output - Test Coverage](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab6/screenshots/testCoverage.png "Lab 6 output - Test Coverage")
+![Lab 6 output - Test Coverage](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab6/screenshots/testCoverage.png "Lab 6 output - Test Coverage")
 
 ### Lab 7: Implement an In-Memory Data Store (ProductRepository)
 #### Screenshot of output
-- ![Lab 7 output - Test Coverage](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab7/screenshots/testCoverage.png "Lab 7 output - Test Coverage")
+![Lab 7 output - Test Coverage](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab7/screenshots/testCoverage.png "Lab 7 output - Test Coverage")
 
