@@ -34,3 +34,16 @@ By: Earl John Pulido & Ronan Aaron Doncillo
 #### Screenshot of output
 ![Lab 7 output - Test Coverage](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab7/screenshots/testCoverage.png "Lab 7 output - Test Coverage")
 
+### Lab 8: Create GET All Products Endpoint
+#### Screenshot of output
+![Lab 8 output - Get All Products Endpoint](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab8/screenshots/Get%20All%20Products%20Endpoint.png "Lab 8 output - Get All Products Endpoint")
+
+### Lab 9: Create GET Product by ID Endpoint
+#### Screenshot of output
+- ![Lab 9 output - Get Existing Product by ID Endpoint](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab9/screenshots/Get%20Existing%20Product%20by%20ID.png "Lab 9 output - Get Existing Product by ID Endpoint")
+- ![Lab 9 output - Get Non-Existing Product by ID](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab9/screenshots/Get%20Non-Existing%20Product%20by%20ID.png "Lab 9 output - Get Non-Existing Product by ID")
+
+### Lab 10: Create POST Product Endpoint
+#### Screenshot of output
+![Lab 10 output - Create New Product Endpoint](https://github.com/aarondoncillo-gcash/springboot-crashcourse/blob/main/session2/lab10/screenshots/Create%20New%20Product%20Endpoint.png "Lab 10 output - Create New Product Endpoint")
+
